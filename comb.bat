@@ -1,3 +1,5 @@
+;;;===,,, :: Meir-tools , 20240914
+;;;===,,, :: Most is not my code , got from one of the sites in google and got edit 
 ;;;===,,, @echo off
 ;;;===,,, :: try run the next
 ;;;===,,, :: copy /a batchBin.bat + /b curl.exe /b combined.bat
